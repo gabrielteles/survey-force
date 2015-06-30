@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- Adicionar pergunta --></label>
+        <name>LABS_SF_AddQuestion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Anônimo --></label>
+        <name>LABS_SF_Anonymous</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Resposta como --></label>
+        <name>LABS_SF_Answer_as</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancelar --></label>
+        <name>LABS_SF_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Chatter --></label>
+        <name>LABS_SF_Chatter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Chatter Link --></label>
+        <name>LABS_SF_Chatter_Link</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Community --></label>
+        <name>LABS_SF_Community</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Contato com Caso --></label>
+        <name>LABS_SF_ContactWithCase</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pesquisas atuais --></label>
+        <name>LABS_SF_CurrentSurveys</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Apagar --></label>
+        <name>LABS_SF_Delete</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Você tem certeza que deseja apagar esta pesquisa? --></label>
+        <name>LABS_SF_Delete_Confirm</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Editar --></label>
+        <name>LABS_SF_Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email Link, Anônimo --></label>
+        <name>LABS_SF_Email_Link_Anonymous</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email Link c/ mesclagem de Contato &amp; Caso --></label>
+        <name>LABS_SF_Email_Link_w_Contact_Case_Merge</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Email Link c/ mesclagem de Contacto --></label>
+        <name>LABS_SF_Email_Link_w_Contact_Merge</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Entre com o nome da pesquisa --></label>
+        <name>LABS_SF_EnterSurveyName</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Para pesquisas externas, favor criar um site primeiro.  Você ainda pode criar --></label>
+        <name>LABS_SF_External_Please_Create_Site</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Para suporte a comunidade com Survey Force --></label>
+        <name>LABS_SF_For_community_assistance_with_Survey_Force</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Solicitando ajuda --></label>
+        <name>LABS_SF_Getting_Help</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cabeçalho e agradecimento --></label>
+        <name>LABS_SF_HeaderAndThankYou</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Se você não tiver feito isso --></label>
+        <name>LABS_SF_If_you_have_not_done_this</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Importante --></label>
+        <name>LABS_SF_Important</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Configurações iniciais --></label>
+        <name>LABS_SF_Initial_Configuration</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manual de instalação --></label>
+        <name>LABS_SF_Installation_Guide</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Interno --></label>
+        <name>LABS_SF_Internal</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Somente contato --></label>
+        <name>LABS_SF_JustContact</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Leia mais --></label>
+        <name>LABS_SF_Learn_More</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Faça uma nova pesquisa --></label>
+        <name>LABS_SF_MakeANewSurvey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Faça nova pesquisa --></label>
+        <name>LABS_SF_MakeNewSurvey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Faça uma pesquisa de exemplo --></label>
+        <name>LABS_SF_Make_a_Sample_Survey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Próximos passos --></label>
+        <name>LABS_SF_Next_Steps</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Por favor fornça a lista --></label>
+        <name>LABS_SF_PleaseEnterTheList</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pergunta --></label>
+        <name>LABS_SF_Question</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Obrigatório --></label>
+        <name>LABS_SF_Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pergunta Obrigatória --></label>
+        <name>LABS_SF_RequiredQuestion</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recursos --></label>
+        <name>LABS_SF_Resources</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Resultados --></label>
+        <name>LABS_SF_Results</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Escolha um local --></label>
+        <name>LABS_SF_SELECTSITE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- - - ESCOLHA- -  --></label>
+        <name>LABS_SF_SELECTTYPE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Respostas Salesforce --></label>
+        <name>LABS_SF_Salesforce_Answers</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Exemplo Projeto Criado --></label>
+        <name>LABS_SF_Sample_Project_Created</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Salvar --></label>
+        <name>LABS_SF_Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Salvar Ordem --></label>
+        <name>LABS_SF_SaveOrder</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Escolha Tipo de Pergunta --></label>
+        <name>LABS_SF_SelectQuestionType</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Escolha site para exibir a pergunta --></label>
+        <name>LABS_SF_SelectSitetodisplaySurvey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Setup &gt; App Setup &gt; View Installed Packages --></label>
+        <name>LABS_SF_Setup_App_Setup_View_Installed_Packages</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Compartilhar --></label>
+        <name>LABS_SF_Share</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Compartilhar Minha Pesquisa --></label>
+        <name>LABS_SF_Share_My_Survey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Opções de Compartilhamento --></label>
+        <name>LABS_SF_Sharing_Options</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Enviar Pesquisa --></label>
+        <name>LABS_SF_SubmitSurvey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SurveyForceIsOpenSource --></label>
+        <name>LABS_SF_SurveyForceIsOpenSource</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Pesquisa URL Link --></label>
+        <name>LABS_SF_SurveyURLLink</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Survey Force não é suportado --></label>
+        <name>LABS_SF_Survey_Force_is_unsupported</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Survey Force no Github --></label>
+        <name>LABS_SF_Survey_Force_on_Github</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Nome da Pesquisa é Obrigatório --></label>
+        <name>LABS_SF_Survey_Name_Is_Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Site da Pesquisa é Obrigatório --></label>
+        <name>LABS_SF_Survey_Site_Is_Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Sua pesquisa foi enviada. Obrigado por realizar nossa pesquisa. --></label>
+        <name>LABS_SF_Survey_Submitted_Thank_you</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Para enviar idéias ou problemas --></label>
+        <name>LABS_SF_To_submit_ideas_or_issues</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Manual do Usuário --></label>
+        <name>LABS_SF_User_Guide</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ver Resultados em Nova Janela --></label>
+        <name>LABS_SF_View_Results_In_New_Window</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Ver Exemplo de Pesquisa --></label>
+        <name>LABS_SF_View_Sample_Survey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Bem-vindo ao Survey Force --></label>
+        <name>LABS_SF_Welcome_to_Survey_Force</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 1. Criar um exemplo de pesquisa clicando no botão abaixo. --></label>
+        <name>LABS_SF_X1_Create_a_sample_survey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 2. Configure um site caso queira que pesquisa sejam tomadas externamente. --></label>
+        <name>LABS_SF_X2_External_Setup_Site</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- 3. Comece criando sua primeira pesquisa. --></label>
+        <name>LABS_SF_X3_Start_creating_your_first_survey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Você já realizou esta pesquisa! --></label>
+        <name>LABS_SF_You_have_already_taken_this_survey</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Seus próximos passos são fáceis. --></label>
+        <name>LABS_SF_Your_next_few_steps_are_easy</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- clique em Survey Force e clique no botão deploy. --></label>
+        <name>LABS_SF_click_on_Survey_Force_and_click_on_the_deploy_button</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- por favor acesse --></label>
+        <name>LABS_SF_please_visit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- você deve implantar Survey Force antes de continuar --></label>
+        <name>LABS_SF_you_must_deploy_Survey_Force_before_continuing</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- Começando --></label>
+        <name>Getting_Started_With_Survey_Force</name>
+    </customTabs>
+    <reportTypes>
+        <description><!-- Pesquisa c/ Perguntas e Respostas --></description>
+        <label><!-- Pesquisa c/ Perguntas e Respostas --></label>
+        <name>Survey_w_Questions_and_Answers</name>
+        <sections>
+            <label><!-- Respostas Pesquisas e Questionários --></label>
+            <name>SurveyQuestionResponses</name>
+        </sections>
+        <sections>
+            <label><!-- Pesquisas e Questionários --></label>
+            <name>SurveyQuestions</name>
+        </sections>
+        <sections>
+            <label><!-- Pesquisas --></label>
+            <name>Surveys</name>
+        </sections>
+    </reportTypes>
+</Translations>
